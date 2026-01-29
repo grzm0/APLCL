@@ -1,14 +1,21 @@
 [
   {
     "version": "1.0",
-    "message": "Initial release.",
+    "message": "[CLIENT] Initial release.",
     "date": "2025-01-29T00:00:00.000Z"
   },
     {
-    "version": "1.1",
-    "message": "Initial releasertgW4EIGUwguoiwer4HGOwhg.",
+    "version": "1.0",
+    "message": "[SERVER] Initial release.",
+    "date": "2025-01-29T00:00:00.000Z"
+  }
+  },
+    {
+    "version": "1.0",
+    "message": "[LAUNCHER] Initial release.",
     "date": "2025-01-29T00:00:00.000Z"
   }
 ]
+
 
 
